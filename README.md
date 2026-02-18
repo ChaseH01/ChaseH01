@@ -1,7 +1,6 @@
 # Hi, I'm Chase
 
-> [!IMPORTANT]
-> #### I graduated from **Washington University in St. Louis**, with a B.S. in Computer Science and minor in Sociology. With a professional background in entrepreneurship and product management, I’m focused on translating sociological insights into designing and building AI systems that are as technically rigorous as they are socially intelligent.
+> ### * I graduated from **Washington University in St. Louis**, with a B.S. in Computer Science and minor in Sociology. With a professional background in entrepreneurship and product management, I’m focused on translating sociological insights into designing and building AI systems that are as technically rigorous as they are socially intelligent. *
 
 ### 🛠️ Technical Toolbox
 
