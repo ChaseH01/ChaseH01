@@ -1,6 +1,6 @@
 # Hi, I'm Chase
 
-I graduated from **Washington University in St. Louis**, with a B.S. in Computer Science and minor in Sociology. With a professional background in entrepreneurship and product management, I’m focused on translating sociological insights into designing and building AI systems that are as technically rigorous as they are socially intelligent.
+> I graduated from **Washington University in St. Louis**, with a B.S. in Computer Science and minor in Sociology. With a professional background in entrepreneurship and product management, I’m focused on translating sociological insights into designing and building AI systems that are as technically rigorous as they are socially intelligent.
 
 ### 🛠️ Technical Toolbox
 
@@ -24,4 +24,4 @@ I graduated from **Washington University in St. Louis**, with a B.S. in Computer
 * **[Affective Retrieval Framework](https://github.com/ChaseH01/A-Voice-AI-System-Walks-into-a-Cocktail-Party):** **Authored** research proposing "Affective Retrieval"—a technical framework that moves Voice AI from transactional data retrieval to relational, human-aware companionship.
 * **[Uber/Lyft Pricing EDA](https://github.com/ChaseH01/ExploratoryDataAnalysis_Lyft-UberData):** **Analyzed** 600k+ rows of rideshare data to uncover the correlation between weather patterns, distance, and dynamic pricing algorithms.
 ---
-📫 **Connect with me:** [chase.j.hurwitz@gmail.com](mailto:chase.j.hurwitz@gmail.com) | [LinkedIn](www.linkedin.com/in/chase-hurwitz)
+📫 **Connect with me:** [chase.j.hurwitz@gmail.com](mailto:chase.j.hurwitz@gmail.com)
