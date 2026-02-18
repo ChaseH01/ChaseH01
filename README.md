@@ -17,9 +17,11 @@ I graduated from **Washington University in St. Louis**, with a B.S. in Computer
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🚀 Featured Work
-* **[Tony Soprano AI](https://github.com/Liamoiknine/NorthJerseyProject):** Fine-tuned Phi-3 model deployed on GKE with auto-scaling.
-* **[Mock Operating System](https://github.com/ChaseH01/Mock-Operating-System-CPP):** A full-scale C++ simulation implementing 7+ design patterns.
-* **[Quantum Cryptanalysis](https://github.com/ChaseH01/QuantumCryptanalysis-HybridDES):** Using Grover’s Algorithm to analyze DES encryption speedups.
-
+* **[Tony Soprano AI](https://github.com/Liamoiknine/NorthJerseyProject):** **Fine-tuned** Phi-3 model **deployed** on GKE with auto-scaling.
+* **[Mock Operating System](https://github.com/ChaseH01/Mock-Operating-System-CPP):** **Engineered** A full-scale C++ simulation implementing 7+ design patterns.
+* **[Quantum Cryptanalysis](https://github.com/ChaseH01/QuantumCryptanalysis-HybridDES):** **Developed** a Grover’s Algorithm circuit to analyze quantum-vulnerability of classical DES encryption.
+* **[Emergency Room Database Design](https://github.com/ChaseH01/SQLDatabaseDesign-EmergencyRoomCaseStudy):** **Architected** an end-to-end relational database.
+* **[Affective Retrieval Framework](https://github.com/ChaseH01/A-Voice-AI-System-Walks-into-a-Cocktail-Party):** **Authored** research proposing "Affective Retrieval"—a technical framework that moves Voice AI from transactional data retrieval to relational, human-aware companionship.
+* **[Uber/Lyft Pricing EDA](https://github.com/ChaseH01/ExploratoryDataAnalysis_Lyft-UberData):** **Analyzed** 600k+ rows of rideshare data to uncover the correlation between weather patterns, distance, and dynamic pricing algorithms.
 ---
 📫 **Connect with me:** [chase.j.hurwitz@gmail.com](mailto:chase.j.hurwitz@gmail.com) | [LinkedIn](www.linkedin.com/in/chase-hurwitz)
